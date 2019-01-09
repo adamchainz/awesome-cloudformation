@@ -74,7 +74,7 @@ AWS re:invent 2015
 
 [cfn-check](https://github.com/Versent/cfn-check) - CloudFormation template validation tool
 
-[cfn-flow](A practical workflow for AWS CloudFormation) - A workflow tool for launching CloudFormation stacks implementing red/black deployment pattern.
+[cfn-flow](https://github.com/kickstarter/cfn-flow) - A workflow tool for launching CloudFormation stacks implementing red/black deployment pattern.
 
 [aws-cfn-template-flip](https://github.com/awslabs/aws-cfn-template-flip) - Tool for converting AWS CloudFormation templates between JSON and YAML formats
 
